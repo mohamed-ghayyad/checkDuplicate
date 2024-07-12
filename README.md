@@ -1,0 +1,2 @@
+# checkDuplicate
+Check duplicate numbers
